@@ -8,6 +8,14 @@
   --glass-border: rgba(212, 175, 55, 0.25);
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
 
 /* ===== NAVBAR BASE ===== */
 
